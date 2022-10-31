@@ -269,3 +269,52 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECTPLUS to Dasduino-CONNECTPLUS-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Orange MAX7219 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 12be8f0] Updating open source files.
+ 1 file changed, 131 insertions(+)
+https://github.com/SolderedElectronics/8x8-LED-matrix-Orange-MAX7219-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Basic stepper driver/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of steps 6
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Button & LED easyC board/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Buzzer board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Dual motor H-bridge DRV8424P driver breakout/OUTPUTS/V1.2.0: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/MOSFET board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Pushbutton as a switch board/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Servo motor board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/WS2812B breakout with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Basic stepper driver board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 3
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino LITE/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECTPLUS/OUTPUTS/V1.1.1: all files are present, commiting...
+Dasduino-CONNECTPLUS-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECTPLUS to Dasduino-CONNECTPLUS-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Orange MAX7219 board/.git/
